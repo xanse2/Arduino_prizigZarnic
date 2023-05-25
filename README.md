@@ -10,3 +10,7 @@ KOSOVNICA:
 2x -led lučki
 19x - kabli
 1x- arduino uno
+
+KOMENTAR:
+
+Mislim, da je bila naloga kar preprosta in nimam nič posebnega za dodati. Mogoče edino stvar katero bi spremenil je, da bi dodelal da svetlost spreminjaš z potenciometrom. Drugače pa negativnih komentarjev nimam, moram pa priznati da je bila interaktivna in zabavna naloga. Ni bilo preveč dela in užival sem v delanju naloge.
