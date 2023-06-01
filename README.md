@@ -9,7 +9,8 @@ KOSOVNICA:
 4x - velike tipke,
 2x -led lučki,
 19x - kabli,
-1x- arduino uno
+1x- arduino uno,
+1x - breadboard
 
 KOMENTAR:
 
