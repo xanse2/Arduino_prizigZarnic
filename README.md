@@ -4,11 +4,11 @@ Prižig žarnic: S tipkalom b1 naj se trajno prižge LED 1, s tipkalom b2 pa LED
 
 KOSOVNICA:
 
-4x - 1k upor
-2x - 220 upor
-4x - velike tipke
-2x -led lučki
-19x - kabli
+4x - 1k upor,
+2x - 220 upor,
+4x - velike tipke,
+2x -led lučki,
+19x - kabli,
 1x- arduino uno
 
 KOMENTAR:
